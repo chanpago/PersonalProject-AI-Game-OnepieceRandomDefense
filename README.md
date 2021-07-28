@@ -67,3 +67,17 @@
 >난이도 따라 다르지만 쉬움모드는 상위유닛 하나만 올려도 클리어 가능, 따라서 AI의 목표는 상위 유닛 하나만 올리는것
 
 >스토리도 신경써야 하기 때문에 스토리를 잘 미는 스토리용 유닛 하나생성
+
+![image](https://user-images.githubusercontent.com/69561410/127300755-048dff42-e0f3-48d9-8703-671f8d857362.png)
+
+![image](https://user-images.githubusercontent.com/69561410/127300930-f84c8d93-a36e-44bf-9347-bf132ee6ce5d.png)
+
+![image](https://user-images.githubusercontent.com/69561410/127300979-02ef6f20-3c50-43ab-b287-8153ebd1e281.png)
+
+![image](https://user-images.githubusercontent.com/69561410/127301021-ad3964e5-b081-4363-ad06-7cd128c3c4ce.png)
+
+![image](https://user-images.githubusercontent.com/69561410/127301091-7498cc88-d1a3-42d8-ab7b-8bc8bf337eec.png)
+
+>상위 유닛은 필요한 "흔함" 갯수가 정해져 있음
+
+>(8라운드스토리시 희귀함2개, 9라운드에 3개 이런식으로 상위결정한다는 내용 적을예정)
